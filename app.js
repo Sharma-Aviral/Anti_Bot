@@ -13,3 +13,5 @@ client.on("message", (msg) => {
 
 
 client.login(config.tokken);
+
+console.log("nibba")
