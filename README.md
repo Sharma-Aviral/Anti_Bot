@@ -7,4 +7,4 @@ you know who.
 
 
 I know it sounds super mean but I assure you this is just for trolling purposes and harmless fun.
-CyberBullying is bad;just dont do it.
+CyberBullying is bad; just dont do it.
